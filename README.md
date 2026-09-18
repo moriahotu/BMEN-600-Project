@@ -37,4 +37,4 @@ Our biggest uncertainty is whether demographic fields are captured consistently 
 
 ## Current decision 
 
-We are currently leaning towards the endometriosis study, because, based on our cursory rearech, theose datasets are easier to navigate. 
+We are currently leaning toward the endometriosis study because, based on our preliminary research, the datasets appear more accessible and easier to navigate.
