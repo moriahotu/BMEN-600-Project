@@ -2,7 +2,7 @@
 
 ## Group 2: Synergy
 
-## Team Members: Asma Sadia Khann, Neriah Otu, Ukeme Inyang, Nazanin Askari
+## Team Members: Asma Sadia Khan, Neriah Otu, Ukeme Inyang, Nazanin Askari
 
 ## Candidate Project 1: Endometriosis Fibrosis and Macrophage–Fibroblast Signalling
 
